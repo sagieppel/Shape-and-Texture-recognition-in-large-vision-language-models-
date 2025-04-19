@@ -1,5 +1,7 @@
 
-# Large Shape & Textures (LAS&T) Dataset (More images ans sources will be a added soon)
+## Large Shape & Textures (LAS&T) Dataset 
+
+(More images ans sources will be a added soon)
 
 ## Code related to the paper [Shape and texture recognition in large vision-language models](https://arxiv.org/pdf/2503.23062)
 
