@@ -4,7 +4,8 @@
 # [MAIN WebPage for  (LAS&T) Dataset](https://sites.google.com/view/lastdataset/home) 
 
 ## Addtional sources: [zenodo](https://zenodo.org/records/15453634), [Kaggle](https://www.kaggle.com/datasets/sagieppel/las-and-t-large-shape-and-texture-dataset)
-## Code related to the paper [Shape and texture recognition in large vision-language models](https://arxiv.org/pdf/2503.23062)
+
+Documentation and details available at: [Shape and texture recognition in large vision-language models](https://arxiv.org/pdf/2503.23062)
 
 
 
