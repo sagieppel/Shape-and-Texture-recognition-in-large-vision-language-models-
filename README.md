@@ -32,7 +32,7 @@ Additional assets are a set of 365,000 natural 2D shapes extracted from real-wor
 
 ## Scripts
 
-1) Code for a) 2D shape extraction from images and b) generation of 2D shapes and textures matching test images available from: [this url](https://github.com/sagieppel/Automatic-Extraction-Of-Shapes-From-Images-Shape-dataset-generation-)
+1) [Code for a) 2D shape extraction from images and b) generation of 2D shapes and textures matching test images](https://github.com/sagieppel/Automatic-Extraction-Of-Shapes-From-Images-Shape-dataset-generation-)
 2) [Code for generating 3D objects/shapes matching tests](https://github.com/sagieppel/Generate_3D_Shape_Recognition_and_Retrieval_Synthetic_Dataset_Blender).
-3) [Code for generation matrial retrieval images in 3D scenes]
+3) [Code for generation matrial retrieval images in 3D scenes](https://github.com/sagieppel/Generate_Materials_Recognition_and_Retrieval_Synthetic_Dataset_Blender).
 4) [Code for testing/evaluating LVLMs using the LAS&T dataset](https://github.com/sagieppel/Testing-Large-Vision-Language-Models-LVLM-on-visual-questions).
